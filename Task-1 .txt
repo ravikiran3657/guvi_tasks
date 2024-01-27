@@ -1,0 +1,9 @@
+Task-1 :
+links:
+
+1.print nos:10 to 50:https://www.guvi.in/ide/?id=65742ee6c6541
+2.reverse pattern: https://www.guvi.in/ide/?id=65742ee6c6541
+3.positive or negative : https://www.guvi.in/ide/?id=65742ee6c6541
+4.samllest of 3numbers: https://www.guvi.in/ide/?id=65742ee6c6541
+5.discount amount: https://www.guvi.in/ide/?id=65742ee6c6541
+6.pattern:https://www.guvi.in/ide/?id=65742ee6c6541
